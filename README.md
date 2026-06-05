@@ -1,5 +1,10 @@
 # CrawlReady SEO — SPA-to-SSR Crawlability Demo
 
+## Live demo
+
+https://upwork-demo-107-technical-seo-devel.vercel.app
+
+
 A small Next.js (App Router) site that proves a React/Vite-style SPA can be made
 **fully crawlable** by serving complete, route-specific HTML — content *and*
 metadata — in the initial response, before any JavaScript runs. It mirrors the
